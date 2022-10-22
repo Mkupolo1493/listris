@@ -1,0 +1,3 @@
+run = ["bash", "listrezpc.sh"]
+
+entrypoint = "listrezpc.sh"
